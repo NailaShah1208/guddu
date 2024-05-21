@@ -7,3 +7,7 @@ const showFunction=()=>{
 const showB=()=>{
     console.log(b)
 }
+const newFeature=()=>{
+    console.log("new feature")
+
+}
